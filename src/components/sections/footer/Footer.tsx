@@ -32,7 +32,7 @@ export default function Footer() {
           height={80}
           className="object-contain"
         />
-        <p className="text-sm">&copy; 2025 AlaskariTech. Alle Rechte vorbehalten.</p>
+        <p className="text-sm text-white">&copy; 2025 AlaskariTech. Alle Rechte vorbehalten.</p>
       </div>
     </footer>
   );
